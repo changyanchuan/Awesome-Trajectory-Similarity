@@ -6,11 +6,11 @@
 ![Stars](https://img.shields.io/github/stars/changyanchuan/Awesome-Trajectory-Similarity)
 
 
-A professional list on deep learning models for Trajectory Similarity and Trajectory Distance Computation Measures, which aims to comprehensively summarize the recent advances in the area.
+:star2: A professional list on deep learning models for Trajectory Similarity Measurement and Trajectory Distance Computation
 
-We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
+:pencil2: We will continue to update this list with the newest resources. If you find any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request.
 
-For a collection of general deep learning-basd trajectory data management and mining papers, please check [this repo](https://github.com/yoshall/Awesome-Trajectory-Computing).
+:rocket: For a collection of general deep learning-basd trajectory data management and mining papers, please check [this repo](https://github.com/yoshall/Awesome-Trajectory-Computing).
 
 
 ## Survey
